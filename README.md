@@ -1,2 +1,5 @@
-# spring-notes
-spring project
+# README
+
+Last updated: 2026-07-26 20:18:44
+
+- noted a caveat about configuration
